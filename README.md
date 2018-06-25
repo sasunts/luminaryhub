@@ -2,7 +2,7 @@
 Guide to run local servers for WP development 
 
 ### Prerequisites (Preferably latest versions of each)
-* [XAMPP](https://www.apachefriends.org/download.html)
+* [XAMPP](https://www.apachefriends.org/download.html) -Note don't download XAMPP-VM, Ensure its just XAMPP
 * [WordPress](https://wordpress.org/download/)
 
 
