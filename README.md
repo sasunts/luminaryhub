@@ -22,14 +22,14 @@ Create a new database and take note of what you name it for our example WPtest, 
 
 Once you have created the database download the wordpress files (link above).
 Navigate to the XAMPP install folder.
-* For windows its (C:\xampp)
-* For mac its (~\Applications\XAMPP\xamppfiles)
+* For windows its `(C:\xampp)`
+* For mac its `(~\Applications\XAMPP\xamppfiles)`
 
 You should see the htdocs folder. Open that.
 In this folder you can create a new folder and this will be the directory of your website, for now lets call it test.
 Extract the wordpress files in our test folder.
 
-In your web browser open the link http://localhost/test *(Note, test should be what you name the folder in htdocs)* 
+In your web browser open the link `http://localhost/test` *(Note, test should be what you name the folder in htdocs)* 
 Here you will have your standard procedure to set up wordpress.
 For database name enter what you named the database in this case WPtest.
 User name is Root.
